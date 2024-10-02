@@ -1,176 +1,377 @@
 <!DOCTYPE html>
-<html lang="en"><head><title>Settings in Smart Connect</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="Settings in Smart Connect"/><meta property="og:description" content="Overview of Settings The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app ..."/><meta property="og:image" content="https://docs.smartconnections.app/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Overview of Settings The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app ..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="Smart-Connect/Settings-in-Smart-Connect"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Smart Connections &amp; Smart Connect Documentation</a></h2><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabindex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabindex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabindex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div><div class="explorer"><button type="button" id="explorer" data-behavior="collapse" data-collapsed="collapsed" data-savestate="false" data-tree="[{&quot;path&quot;:&quot;Smart-Connect&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Smart-Connections&quot;,&quot;collapsed&quot;:true}]"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-content"><ul class="overflow" id="explorer-ul"><li><div class="folder-outer open"><ul style="padding-left:0;" class="content" data-folderul><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Smart-Connect"><button class="folder-button"><span class="folder-title">Smart Connect</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Smart-Connect"><li><a href="../Smart-Connect/Creating-a-Custom-GPT-with-Smart-Connect" data-for="Smart-Connect/Creating-a-Custom-GPT-with-Smart-Connect">Creating a Custom GPT with Smart Connect</a></li><li><a href="../Smart-Connect/Custom-Actions" data-for="Smart-Connect/Custom-Actions">Custom Actions</a></li><li><a href="../Smart-Connect/Settings-in-Smart-Connect" data-for="Smart-Connect/Settings-in-Smart-Connect">Settings in Smart Connect</a></li><li><a href="../Smart-Connect/Smart-Actions-in-Smart-Connect" data-for="Smart-Connect/Smart-Actions-in-Smart-Connect">Smart Actions in Smart Connect</a></li><li><a href="../Smart-Connect/Smart-Environments-in-Smart-Connect" data-for="Smart-Connect/Smart-Environments-in-Smart-Connect">Smart Environments in Smart Connect</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Smart-Connections"><button class="folder-button"><span class="folder-title">Smart Connections</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Smart-Connections"><li><a href="../Smart-Connections/Elevate-Your-Obsidian-Experience-with-Smart-Connections" data-for="Smart-Connections/Elevate-Your-Obsidian-Experience-with-Smart-Connections">Elevate Your Obsidian Experience with Smart Connections</a></li><li><a href="../Smart-Connections/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters" data-for="Smart-Connections/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters">Getting Started with the Private Chat for Smart Connections Supporters</a></li><li><a href="../Smart-Connections/Help-debug-Smart-Connections-issues" data-for="Smart-Connections/Help-debug-Smart-Connections-issues">Help debug Smart Connections issues</a></li></ul></div></li><li><div class="folder-outer "><ul style="padding-left:0;" class="content" data-folderul></ul></div></li><li><a href="../Screenshot-Showcase" data-for="Screenshot-Showcase">Screenshot Showcase</a></li><li><a href="../Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault" data-for="Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault">Smart Connections &amp; Smart Connect - Bringing AI to Your Obsidian Vault</a></li><li><a href="../Troubleshooting" data-for="Troubleshooting">Troubleshooting</a></li></ul></div></li><li id="explorer-end"></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Smart-Connect/">Smart Connect</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Settings in Smart Connect</a></div></nav><h1 class="article-title">Settings in Smart Connect</h1><p show-comma="true" class="content-meta"><span>Oct 01, 2024</span><span>3 min read</span></p></div></div><article class="popover-hint"><h2 id="overview-of-settings">Overview of Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#overview-of-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<p>The <strong>Settings</strong> section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app.</p>
-<h2 id="api-key">API Key<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#api-key" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<html lang="en"><head><title>Settings in Smart Connect</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="Settings in Smart Connect"/><meta property="og:description" content="1. Overview The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality."/><meta property="og:image" content="https://docs.smartconnections.app/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="1. Overview The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="Smart-Connect/Settings-in-Smart-Connect"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Smart Connections &amp; Smart Connect Documentation</a></h2><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabindex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabindex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabindex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div><div class="explorer"><button type="button" id="explorer" data-behavior="collapse" data-collapsed="collapsed" data-savestate="false" data-tree="[{&quot;path&quot;:&quot;Smart-Connect&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Smart-Connections&quot;,&quot;collapsed&quot;:true}]"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-content"><ul class="overflow" id="explorer-ul"><li><div class="folder-outer open"><ul style="padding-left:0;" class="content" data-folderul><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Smart-Connect"><button class="folder-button"><span class="folder-title">Smart Connect</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Smart-Connect"><li><a href="../Smart-Connect/Creating-a-Custom-GPT-with-Smart-Connect" data-for="Smart-Connect/Creating-a-Custom-GPT-with-Smart-Connect">Creating a Custom GPT with Smart Connect</a></li><li><a href="../Smart-Connect/Custom-Actions" data-for="Smart-Connect/Custom-Actions">Custom Actions</a></li><li><a href="../Smart-Connect/Settings-in-Smart-Connect" data-for="Smart-Connect/Settings-in-Smart-Connect">Settings in Smart Connect</a></li><li><a href="../Smart-Connect/Smart-Actions-in-Smart-Connect" data-for="Smart-Connect/Smart-Actions-in-Smart-Connect">Smart Actions in Smart Connect</a></li><li><a href="../Smart-Connect/Smart-Environments-in-Smart-Connect" data-for="Smart-Connect/Smart-Environments-in-Smart-Connect">Smart Environments in Smart Connect</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Smart-Connections"><button class="folder-button"><span class="folder-title">Smart Connections</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Smart-Connections"><li><a href="../Smart-Connections/Elevate-Your-Obsidian-Experience-with-Smart-Connections" data-for="Smart-Connections/Elevate-Your-Obsidian-Experience-with-Smart-Connections">Elevate Your Obsidian Experience with Smart Connections</a></li><li><a href="../Smart-Connections/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters" data-for="Smart-Connections/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters">Getting Started with the Private Chat for Smart Connections Supporters</a></li><li><a href="../Smart-Connections/Help-debug-Smart-Connections-issues" data-for="Smart-Connections/Help-debug-Smart-Connections-issues">Help debug Smart Connections issues</a></li></ul></div></li><li><div class="folder-outer "><ul style="padding-left:0;" class="content" data-folderul></ul></div></li><li><a href="../Screenshot-Showcase" data-for="Screenshot-Showcase">Screenshot Showcase</a></li><li><a href="../Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault" data-for="Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault">Smart Connections &amp; Smart Connect - Bringing AI to Your Obsidian Vault</a></li><li><a href="../Troubleshooting" data-for="Troubleshooting">Troubleshooting</a></li></ul></div></li><li id="explorer-end"></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Smart-Connect/">Smart Connect</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Settings in Smart Connect</a></div></nav><h1 class="article-title">Settings in Smart Connect</h1><p show-comma="true" class="content-meta"><span>Oct 01, 2024</span><span>7 min read</span></p></div></div><article class="popover-hint"><h3 id="1-overview">1. Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-overview" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The <strong>Settings</strong> section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality.</p>
+<hr/>
+<h3 id="2-settings">2. Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="21-security-advanced">2.1 Security (Advanced)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#21-security-advanced" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Purpose</strong>: Required when setting up Custom GPTs.</li>
-<li><strong>Current State</strong>: Set to a default value.</li>
-<li><strong>Future Plans</strong>:
+<li>
+<p><strong>Description</strong>: The <strong>Security</strong> toggle enables or disables HTTPS security features within the Smart Connect app. By default, this setting should be <strong>On</strong> to ensure secure communication when connecting via the Smart Connect Official Service.</p>
+</li>
+<li>
+<p><strong>When to Disable</strong>:</p>
 <ul>
-<li>Will become editable.</li>
-<li>May be relocated within the app for better accessibility.</li>
+<li>If you’re running your own tunnel server instead of using the Smart Connect Official Service, you need to turn off the <strong>Security</strong> setting.</li>
+<li>Disabling security allows the app to connect through your custom server, but it also disables certain security features provided by the official service.</li>
+</ul>
+</li>
+<li>
+<p><strong>Potential Risks and Mitigation</strong>:</p>
+<ul>
+<li>Disabling HTTPS security can expose your data to potential security risks.</li>
+<li>Ensure that your custom server is securely configured.</li>
+<li>Be cautious of unauthorized access when security is disabled.</li>
 </ul>
 </li>
 </ul>
-<h2 id="security-settings">Security Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#security-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<hr/>
+<h3 id="3-global-settings">3. Global Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-global-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="31-api-key">3.1 API Key<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#31-api-key" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Using a Custom Server</strong>:
-<ul>
-<li>If not using the Smart Connect Official service, you can adjust security settings.</li>
-</ul>
+<li>
+<p><strong>Purpose</strong>: The <strong>API Key</strong> functions as a password to secure your custom GPTs. It’s required when setting up Custom GPTs and ensures that only authorized users can access and modify your GPT configurations.</p>
 </li>
-<li><strong>Turning Off Security</strong>:
+<li>
+<p><strong>Usage</strong>:</p>
 <ul>
-<li>Toggle <strong>Security</strong> to <strong>Off</strong> if using your own tunnel server.</li>
-<li>Additional options will appear for further configuration.</li>
-</ul>
-</li>
-<li><strong>Note</strong>:
-<ul>
-<li>The security feature enhances protection when using the official service.</li>
-<li>Cannot be enabled with custom servers.</li>
+<li>Currently set to a default value.</li>
+<li>In future updates, this setting will become editable and may be relocated for better accessibility.</li>
+<li>It’s important to keep your API Key confidential to maintain security.</li>
 </ul>
 </li>
 </ul>
-<h2 id="global-settings">Global Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#global-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<h3 id="prevent-sleep">Prevent Sleep<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#prevent-sleep" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="32-prevent-sleep">3.2 Prevent Sleep<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32-prevent-sleep" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Purpose</strong>: Keeps your computer awake to maintain AI access.</li>
-<li><strong>When to Use</strong>:
+<li>
+<p><strong>Description</strong>: The <strong>Prevent Sleep</strong> toggle keeps your computer awake, preventing it from entering sleep mode while Smart Connect is running.</p>
+</li>
+<li>
+<p><strong>When to Use</strong>:</p>
 <ul>
-<li>If you need constant access to notes via ChatGPT from other devices.</li>
+<li>If you need constant access to your notes via ChatGPT from other devices, such as your cell phone.</li>
+<li>Useful during long-running tasks or continuous data retrieval.</li>
 </ul>
 </li>
-<li><strong>How to Enable</strong>:
+<li>
+<p><strong>How to Enable</strong>:</p>
 <ul>
+<li>Go to <strong>Global Settings</strong>.</li>
 <li>Toggle <strong>Prevent Sleep</strong> to <strong>On</strong>.</li>
 </ul>
 </li>
-</ul>
-<h3 id="auto-launch">Auto Launch<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#auto-launch" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<li>
+<p><strong>Benefits</strong>:</p>
 <ul>
-<li><strong>Purpose</strong>: Starts the app automatically when your computer boots.</li>
-<li><strong>Benefits</strong>:
-<ul>
-<li>Ensures the app is always ready for use.</li>
-</ul>
-</li>
-<li><strong>How to Enable</strong>:
-<ul>
-<li>Toggle <strong>Auto Launch</strong> to <strong>On</strong>.</li>
+<li>Ensures that Smart Connect remains active and accessible.</li>
+<li>Prevents interruptions in AI interactions due to the computer sleeping.</li>
 </ul>
 </li>
 </ul>
-<h2 id="official-service-settings">Official Service Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#official-service-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<h3 id="email-and-connection-key">Email and Connection Key<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#email-and-connection-key" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="33-auto-launch">3.3 Auto-Launch<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#33-auto-launch" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Email</strong>: Your registered email address.</li>
-<li><strong>Connection Key</strong>: Links the app to your account.</li>
-<li><strong>Obtaining a Connection Key</strong>:
+<li>
+<p><strong>Description</strong>: Enabling <strong>Auto-Launch</strong> starts the Smart Connect app automatically when your computer boots.</p>
+</li>
+<li>
+<p><strong>How to Enable</strong>:</p>
 <ul>
-<li>Click <strong>Get Connection Key</strong> and follow the instructions.</li>
+<li>In <strong>Global Settings</strong>, toggle <strong>Auto-Launch</strong> to <strong>On</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Benefits</strong>:</p>
+<ul>
+<li>The app is always ready for use without manual intervention.</li>
+<li>Saves time and ensures continuous availability.</li>
+</ul>
+</li>
+<li>
+<p><strong>Trade-offs</strong>:</p>
+<ul>
+<li>May slightly increase boot time.</li>
+<li>Consumes system resources upon startup.</li>
 </ul>
 </li>
 </ul>
-<h2 id="statistics">Statistics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#statistics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<h3 id="input-tokens">Input Tokens<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#input-tokens" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<hr/>
+<h3 id="4-official-service">4. Official Service<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-official-service" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="41-email">4.1 Email<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#41-email" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Definition</strong>: Tokens used in requests sent to ChatGPT.</li>
-<li><strong>Usage</strong>:
+<li>
+<p><strong>Purpose</strong>: Enter the email address associated with your Smart Connect account. This email is linked to your official service credentials and is necessary for authentication.</p>
+</li>
+<li>
+<p><strong>How to Enter</strong>:</p>
 <ul>
-<li>Helps monitor the volume of data being processed.</li>
+<li>In the <strong>Official Service</strong> section, input your registered email address.</li>
 </ul>
 </li>
 </ul>
-<h3 id="output-tokens">Output Tokens<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#output-tokens" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="42-connection-key">4.2 Connection Key<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#42-connection-key" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Definition</strong>: Tokens representing context retrieved from your notes.</li>
-<li><strong>Usage</strong>:
+<li>
+<p><strong>Purpose</strong>: The <strong>Connection Key</strong> links the app to your Smart Connect account, allowing secure communication with the official service.</p>
+</li>
+<li>
+<p><strong>How to Obtain</strong>:</p>
 <ul>
-<li>Indicates how much information the AI is accessing.</li>
+<li>Click the <strong>Get Connection Key</strong> button within the app.</li>
+<li>Follow the instructions sent to your email to retrieve the key.</li>
+</ul>
+</li>
+<li>
+<p><strong>How to Enter</strong>:</p>
+<ul>
+<li>Enter the <strong>Connection Key</strong> in the designated field in the <strong>Official Service</strong> settings.</li>
+</ul>
+</li>
+<li>
+<p><strong>When to Refresh</strong>:</p>
+<ul>
+<li>If you experience connection issues.</li>
+<li>After resetting settings or reinstalling the app.</li>
 </ul>
 </li>
 </ul>
-<h3 id="total-tokens">Total Tokens<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#total-tokens" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<hr/>
+<h3 id="5-stats">5. Stats<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5-stats" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="51-input-tokens">5.1 Input Tokens<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#51-input-tokens" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Calculation</strong>: Sum of input and output tokens.</li>
-<li><strong>Purpose</strong>:
+<li>
+<p><strong>Definition</strong>: Input tokens represent the amount of data (in tokens) sent to ChatGPT based on requests from your conversations.</p>
+</li>
+<li>
+<p><strong>Usage</strong>:</p>
 <ul>
-<li>Useful for tracking overall usage and potential costs.</li>
+<li>Helps monitor how much information you’re sending to the AI.</li>
+<li>Useful for understanding and managing usage limits or costs.</li>
 </ul>
 </li>
 </ul>
-<h2 id="access-log">Access Log<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#access-log" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h4 id="52-output-tokens">5.2 Output Tokens<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#52-output-tokens" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Purpose</strong>: Logs incoming requests for transparency.</li>
-<li><strong>Usage</strong>:
-<ul>
-<li>Monitor for unauthorized access.</li>
-<li>Review request origins.</li>
-</ul>
+<li>
+<p><strong>Definition</strong>: Output tokens are the tokens representing the context retrieved by ChatGPT from your notes.</p>
 </li>
-<li><strong>How to View</strong>:
+<li>
+<p><strong>Usage</strong>:</p>
 <ul>
-<li>Navigate to the <strong>Access Log</strong> section.</li>
+<li>Indicates how much of your note content is being accessed by the AI.</li>
+<li>Helps track data retrieval and potential exposure of sensitive information.</li>
 </ul>
 </li>
 </ul>
-<h2 id="console-log">Console Log<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#console-log" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<h3 id="opening-the-console-log">Opening the Console Log<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#opening-the-console-log" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="53-total-tokens">5.3 Total Tokens<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#53-total-tokens" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li>Click <strong>Open Console Log</strong> to display the console window.</li>
-<li>View logs under the <strong>Console</strong> tab.</li>
+<li>
+<p><strong>Calculation</strong>: Total tokens are the sum of input and output tokens.</p>
+</li>
+<li>
+<p><strong>Purpose</strong>:</p>
+<ul>
+<li>Provides an overall view of your token usage.</li>
+<li>Important for tracking resource consumption and optimizing performance.</li>
+<li>Can help in managing any associated costs with token usage.</li>
 </ul>
-<h3 id="identifying-and-reporting-errors">Identifying and Reporting Errors<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#identifying-and-reporting-errors" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+</li>
+</ul>
+<hr/>
+<h3 id="6-logs">6. Logs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6-logs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="61-open-access-log">6.1 Open Access Log<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#61-open-access-log" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li>Look for errors or warnings.</li>
-<li>If issues are found:
+<li>
+<p><strong>Purpose</strong>: The <strong>Access Log</strong> records incoming requests to the Smart Connect app, providing transparency and security oversight.</p>
+</li>
+<li>
+<p><strong>Usage</strong>:</p>
+<ul>
+<li>Monitor for unauthorized access attempts.</li>
+<li>Review the origins of requests to ensure they are legitimate.</li>
+</ul>
+</li>
+<li>
+<p><strong>How to View</strong>:</p>
+<ul>
+<li>Navigate to the <strong>Access Log</strong> section at the bottom of the <strong>Settings</strong> page.</li>
+</ul>
+</li>
+</ul>
+<h4 id="62-open-console-log">6.2 Open Console Log<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#62-open-console-log" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>
+<p><strong>Purpose</strong>: The <strong>Console Log</strong> is a diagnostic tool that provides detailed technical information for troubleshooting.</p>
+</li>
+<li>
+<p><strong>How to Open</strong>:</p>
+<ul>
+<li>Click <strong>Open Console Log</strong> within the <strong>Settings</strong> section.</li>
+<li>A new window will appear displaying log information.</li>
+</ul>
+</li>
+<li>
+<p><strong>Interpreting the Console Log</strong>:</p>
+<ul>
+<li>Focus on the <strong>Console</strong> tab for relevant information.</li>
+<li>Look for errors or warnings highlighted in the log.</li>
+</ul>
+</li>
+<li>
+<p><strong>When to Use</strong>:</p>
+<ul>
+<li>If you encounter issues or unexpected behavior in the app.</li>
+<li>For reporting errors to support channels.</li>
+</ul>
+</li>
+<li>
+<p><strong>Reporting Errors</strong>:</p>
+<ul>
+<li>Take a screenshot of any errors found.</li>
+<li>Report them via GitHub or through the support channels provided.</li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h3 id="7-debug">7. Debug<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#7-debug" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="71-reset-settings">7.1 Reset Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#71-reset-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>
+<p><strong>Purpose</strong>: The <strong>Reset Settings</strong> function restores all app settings to their default configurations.</p>
+</li>
+<li>
+<p><strong>When to Use</strong>:</p>
+<ul>
+<li>If you’re experiencing issues due to incompatible or corrupt settings.</li>
+<li>After significant updates or when troubleshooting major problems.</li>
+</ul>
+</li>
+<li>
+<p><strong>How to Reset</strong>:</p>
 <ol>
-<li>Take a screenshot of the error.</li>
-<li>Report it via GitHub or support channels.</li>
+<li>Click <strong>Reset Settings</strong> in the <strong>Debug</strong> section.</li>
+<li>Confirm the action when prompted.</li>
 </ol>
 </li>
-</ul>
-<h3 id="purpose">Purpose<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#purpose" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<li>
+<p><strong>Warning</strong>:</p>
 <ul>
-<li>Assists in troubleshooting.</li>
-<li>Provides detailed information for diagnosing problems.</li>
-</ul>
-<h2 id="reset-settings">Reset Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#reset-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<ul>
-<li><strong>Purpose</strong>: Restores all settings to default.</li>
-<li><strong>When to Use</strong>:
-<ul>
-<li>If encountering issues after updates or incompatible configurations.</li>
+<li>All custom configurations will be lost.</li>
+<li>You will need to reconfigure your settings after the reset.</li>
 </ul>
 </li>
-<li><strong>How to Reset</strong>:
+<li>
+<p><strong>Note</strong>:</p>
+<ul>
+<li>The <strong>Reset Settings</strong> button is designed to be accessible even if other parts of the app are not functioning properly.</li>
+</ul>
+</li>
+</ul>
+<h4 id="72-show-gpu-details">7.2 Show GPU Details<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#72-show-gpu-details" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>
+<p><strong>Note</strong>: This feature is generally not important for most users and may be removed in future versions.</p>
+</li>
+<li>
+<p><strong>Purpose</strong>: Displays details about your system’s GPU.</p>
+</li>
+<li>
+<p><strong>When to Use</strong>:</p>
+<ul>
+<li>Only if instructed by support staff for troubleshooting performance issues.</li>
+</ul>
+</li>
+<li>
+<p><strong>Recommendation</strong>:</p>
+<ul>
+<li>Ignore this setting unless specifically advised to use it.</li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h3 id="8-example-scenarios-and-use-cases">8. Example Scenarios and Use Cases<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#8-example-scenarios-and-use-cases" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="81-connecting-to-smart-connect-with-custom-security-settings">8.1 Connecting to Smart Connect with Custom Security Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#81-connecting-to-smart-connect-with-custom-security-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>
+<p><strong>Scenario</strong>: You are running your own custom tunnel server and need to disable the default security settings to connect.</p>
+</li>
+<li>
+<p><strong>Steps</strong>:</p>
 <ol>
-<li>Click <strong>Reset Settings</strong>.</li>
-<li>Confirm when prompted.</li>
+<li>Navigate to <strong>Settings > Security (Advanced)</strong>.</li>
+<li>Toggle <strong>Security</strong> to <strong>Off</strong>.</li>
+<li>Configure any additional settings that appear after disabling security.</li>
+<li>Ensure your custom server is securely set up to mitigate risks.</li>
 </ol>
 </li>
-<li><strong>Warning</strong>:
+<li>
+<p><strong>Important</strong>:</p>
 <ul>
-<li>All custom settings will be lost.</li>
-<li>Reconfiguration will be necessary.</li>
+<li>Disabling security is only recommended for advanced users.</li>
+<li>Be aware of the potential security implications.</li>
 </ul>
 </li>
 </ul>
-<h2 id="additional-settings">Additional Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#additional-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
-<h3 id="gpu-details">GPU Details<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gpu-details" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="82-monitoring-token-usage-for-performance-optimization">8.2 Monitoring Token Usage for Performance Optimization<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#82-monitoring-token-usage-for-performance-optimization" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
 <ul>
-<li><strong>Note</strong>: Generally not important for most users.</li>
-<li><strong>Status</strong>: May be removed in future versions.</li>
-<li><strong>Purpose</strong>:
+<li>
+<p><strong>Scenario</strong>: You want to optimize the performance of your GPT interactions and manage resource usage.</p>
+</li>
+<li>
+<p><strong>Steps</strong>:</p>
+<ol>
+<li>Go to <strong>Settings > Stats</strong>.</li>
+<li>Review <strong>Input Tokens</strong> and <strong>Output Tokens</strong> to understand your usage patterns.</li>
+<li>Use this information to adjust your interactions or configurations to reduce unnecessary token consumption.</li>
+</ol>
+</li>
+<li>
+<p><strong>Benefits</strong>:</p>
 <ul>
-<li>Displays GPU information.</li>
+<li>Helps in managing any costs associated with token usage.</li>
+<li>Improves efficiency and responsiveness of the AI.</li>
 </ul>
 </li>
-<li><strong>Recommendation</strong>:
-<ul>
-<li>Ignore unless instructed by support.</li>
 </ul>
+<h4 id="83-debugging-system-issues-via-logs-and-reset-settings">8.3 Debugging System Issues via Logs and Reset Settings<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#83-debugging-system-issues-via-logs-and-reset-settings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>
+<p><strong>Scenario</strong>: You’re experiencing issues with the app and need to troubleshoot.</p>
+</li>
+<li>
+<p><strong>Steps</strong>:</p>
+<ol>
+<li>Open the <strong>Console Log</strong> via <strong>Settings > Open Console Log</strong>.</li>
+<li>Check for any errors or warnings.</li>
+<li>If errors are found, take a screenshot and report them to support.</li>
+<li>If issues persist, use <strong>Reset Settings</strong> to restore defaults.</li>
+<li>Reconfigure your settings after the reset.</li>
+</ol>
+</li>
+<li>
+<p><strong>Tips</strong>:</p>
+<ul>
+<li>Always backup important settings or configurations before resetting.</li>
+<li>Use the <strong>Access Log</strong> to check for any unauthorized access that might be causing issues.</li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h3 id="additional-improvements">Additional Improvements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#additional-improvements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Based on the transcript and additional structural information, the following improvements have been made:</p>
+<ul>
+<li>
+<p><strong>Detailed Descriptions</strong>: Filled in the italicized sections with specific information from the transcript to provide clearer guidance.</p>
+</li>
+<li>
+<p><strong>Example Scenarios</strong>: Added practical examples and use cases to help users understand how to apply the settings in real-world situations.</p>
+</li>
+<li>
+<p><strong>Warnings and Notes</strong>: Included important warnings about potential risks when adjusting advanced settings, especially concerning security.</p>
+</li>
+<li>
+<p><strong>Clarity on Deprecations</strong>: Noted that certain features like <strong>GPU Details</strong> may be removed in future updates, aligning with the transcript’s information.</p>
+</li>
+<li>
+<p><strong>Reorganization</strong>: Structured the Settings section to follow a logical flow, making it easier for users to navigate and understand each setting.</p>
 </li>
 </ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false}"></div><svg version="1.1" id="global-graph-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
 	s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
@@ -182,7 +383,7 @@
 	C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
 	S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
 	s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
-	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" id="toc" class><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content"><ul class="overflow"><li class="depth-0"><a href="#overview-of-settings" data-for="overview-of-settings">Overview of Settings</a></li><li class="depth-0"><a href="#api-key" data-for="api-key">API Key</a></li><li class="depth-0"><a href="#security-settings" data-for="security-settings">Security Settings</a></li><li class="depth-0"><a href="#global-settings" data-for="global-settings">Global Settings</a></li><li class="depth-1"><a href="#prevent-sleep" data-for="prevent-sleep">Prevent Sleep</a></li><li class="depth-1"><a href="#auto-launch" data-for="auto-launch">Auto Launch</a></li><li class="depth-0"><a href="#official-service-settings" data-for="official-service-settings">Official Service Settings</a></li><li class="depth-1"><a href="#email-and-connection-key" data-for="email-and-connection-key">Email and Connection Key</a></li><li class="depth-0"><a href="#statistics" data-for="statistics">Statistics</a></li><li class="depth-1"><a href="#input-tokens" data-for="input-tokens">Input Tokens</a></li><li class="depth-1"><a href="#output-tokens" data-for="output-tokens">Output Tokens</a></li><li class="depth-1"><a href="#total-tokens" data-for="total-tokens">Total Tokens</a></li><li class="depth-0"><a href="#access-log" data-for="access-log">Access Log</a></li><li class="depth-0"><a href="#console-log" data-for="console-log">Console Log</a></li><li class="depth-1"><a href="#opening-the-console-log" data-for="opening-the-console-log">Opening the Console Log</a></li><li class="depth-1"><a href="#identifying-and-reporting-errors" data-for="identifying-and-reporting-errors">Identifying and Reporting Errors</a></li><li class="depth-1"><a href="#purpose" data-for="purpose">Purpose</a></li><li class="depth-0"><a href="#reset-settings" data-for="reset-settings">Reset Settings</a></li><li class="depth-0"><a href="#additional-settings" data-for="additional-settings">Additional Settings</a></li><li class="depth-1"><a href="#gpu-details" data-for="gpu-details">GPU Details</a></li></ul></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li>No backlinks found</li></ul></div></div></div><footer class><p>Created with Smart Ecosystem by 🌴 Brian Joseph Petro © 2024</p><ul><li><a href="https://smartconnections.app">Home</a></li><li><a href="https://github.com/brianpetro/Smart-Connections-Docs">Contribute</a></li><li><a href="https://chat.smartconnections.app">Supporter Chat</a></li><li><a href="https://x.com/wfhbrian">Follow Brian 🌴</a></li></ul></footer></div></body><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
+	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" id="toc" class><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content"><ul class="overflow"><li class="depth-0"><a href="#1-overview" data-for="1-overview">1. Overview</a></li><li class="depth-0"><a href="#2-settings" data-for="2-settings">2. Settings</a></li><li class="depth-0"><a href="#3-global-settings" data-for="3-global-settings">3. Global Settings</a></li><li class="depth-0"><a href="#4-official-service" data-for="4-official-service">4. Official Service</a></li><li class="depth-0"><a href="#5-stats" data-for="5-stats">5. Stats</a></li><li class="depth-0"><a href="#6-logs" data-for="6-logs">6. Logs</a></li><li class="depth-0"><a href="#7-debug" data-for="7-debug">7. Debug</a></li><li class="depth-0"><a href="#8-example-scenarios-and-use-cases" data-for="8-example-scenarios-and-use-cases">8. Example Scenarios and Use Cases</a></li><li class="depth-0"><a href="#additional-improvements" data-for="additional-improvements">Additional Improvements</a></li></ul></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li>No backlinks found</li></ul></div></div></div><footer class><p>Created with Smart Ecosystem by 🌴 Brian Joseph Petro © 2024</p><ul><li><a href="https://smartconnections.app">Home</a></li><li><a href="https://github.com/brianpetro/Smart-Connections-Docs">Contribute</a></li><li><a href="https://chat.smartconnections.app">Supporter Chat</a></li><li><a href="https://x.com/wfhbrian">Follow Brian 🌴</a></li></ul></footer></div></body><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
 </script><script type="module">
           let mermaidImport = undefined
           document.addEventListener('nav', async () => {
