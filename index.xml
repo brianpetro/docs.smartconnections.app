@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Smart Connections &amp; Smart Connect Documentation</title>
+      <title>Smart Docs</title>
       <link>https://docs.smartconnections.app</link>
-      <description>Last 10 notes on Smart Connections &amp; Smart Connect Documentation</description>
+      <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Smart Environments in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect/Smart-Environments-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect/Smart-Environments-in-Smart-Connect</guid>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</guid>
     <description>1. Overview Smart Environments are a core component of the Smart Connect app. They define the connection between your notes and the AI, specifying which notes are accessible and how they are processed.</description>
     <pubDate>Tue, 01 Oct 2024 23:40:08 GMT</pubDate>
   </item><item>
     <title>Smart Actions in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect/Smart-Actions-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect/Smart-Actions-in-Smart-Connect</guid>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Actions-in-Smart-Connect</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Actions-in-Smart-Connect</guid>
     <description>1. Overview Smart Actions allow you to define how the AI interacts with your notes by specifying the operations it can perform. They are crucial for managing workflows and customizing AI behavior to suit your specific needs.</description>
     <pubDate>Tue, 01 Oct 2024 23:38:21 GMT</pubDate>
   </item><item>
     <title>Settings in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect/Settings-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect/Settings-in-Smart-Connect</guid>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</guid>
     <description>1. Overview The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality.</description>
     <pubDate>Tue, 01 Oct 2024 23:37:35 GMT</pubDate>
   </item><item>
@@ -37,8 +37,8 @@
     <pubDate>Wed, 11 Sep 2024 14:38:44 GMT</pubDate>
   </item><item>
     <title>Custom Actions</title>
-    <link>https://docs.smartconnections.app/Smart-Connect/Custom-Actions</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect/Custom-Actions</guid>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Custom-Actions</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Custom-Actions</guid>
     <description>What are custom actions? “Custom Actions empower you to execute local functions with unparalleled ease, bypassing the complexities of server hosting. Simplify your development workflow and boost productivity with Smart Actions.” “Custom Actions make executing local functions as easy as flipping a switch.</description>
     <pubDate>Tue, 10 Sep 2024 14:26:20 GMT</pubDate>
   </item><item>
@@ -49,20 +49,20 @@
     <pubDate>Wed, 07 Aug 2024 14:14:50 GMT</pubDate>
   </item><item>
     <title>Help debug Smart Connections issues</title>
-    <link>https://docs.smartconnections.app/Smart-Connections/Help-debug-Smart-Connections-issues</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections/Help-debug-Smart-Connections-issues</guid>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Help-debug-Smart-Connections-issues</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Help-debug-Smart-Connections-issues</guid>
     <description>The steps necessary to help me debug an issue at start-up. make sure this setting in Obsidian is toggled on open the developer console logs (on windows: CTRL+SHIFT+i) Clear the logs: Disable &amp; Re-enable Smart Connections Screenshot errors in the logs and send them to me for review.</description>
     <pubDate>Wed, 05 Jun 2024 20:59:25 GMT</pubDate>
   </item><item>
     <title>Smart Connections &amp; Smart Connect - Bringing AI to Your Obsidian Vault</title>
-    <link>https://docs.smartconnections.app/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</guid>
+    <link>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</link>
+    <guid>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</guid>
     <description>Hey there, fellow knowledge explorers and productivity experts! 🌟 Are you ready to take your Obsidian note-taking to the next level? Obsidian has revolutionized the way we capture ...</description>
     <pubDate>Fri, 26 Apr 2024 18:57:03 GMT</pubDate>
   </item><item>
     <title>Getting Started with the Private Chat for Smart Connections Supporters</title>
-    <link>https://docs.smartconnections.app/Smart-Connections/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters</guid>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters</guid>
     <description>After signing up using the special link in your supporter welcome email: Download and Installation: The Smart Connections chat can be used in the web browser and through Progressive ...</description>
     <pubDate>Fri, 26 Apr 2024 16:09:57 GMT</pubDate>
   </item>
