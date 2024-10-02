@@ -6,6 +6,24 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Mission</title>
+    <link>https://docs.smartconnections.app/Mission</link>
+    <guid>https://docs.smartconnections.app/Mission</guid>
+    <description>index Mission Join the Future of AI: Personalize Your Smart Environment with Us Enhancing Your Abilities with Ethical AI: The Mission Behind Smart Connections ...</description>
+    <pubDate>Wed, 02 Oct 2024 12:24:25 GMT</pubDate>
+  </item><item>
+    <title>Workflows</title>
+    <link>https://docs.smartconnections.app/Workflows</link>
+    <guid>https://docs.smartconnections.app/Workflows</guid>
+    <description>index Workflows Connect Obsidian to Make.com with Smart Connect How Accurate is ChatGPT at Transcribing Handwritten Notes? Find Out! How I Use Smart Connect Transcribe GPT for Effortless ...</description>
+    <pubDate>Wed, 02 Oct 2024 12:21:35 GMT</pubDate>
+  </item><item>
+    <title>Videos</title>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Videos</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Videos</guid>
+    <description>Getting Started Exploring the next Smart Connect update: A walkthrough from Obsidian Folder Setup to Custom GPTs Getting Started with Smart Connect Welcome to Smart Connect v1.2: ...</description>
+    <pubDate>Wed, 02 Oct 2024 12:19:57 GMT</pubDate>
+  </item><item>
     <title>Exploring Smart Connect app v1.3</title>
     <link>https://docs.smartconnections.app/Blog/Exploring-Smart-Connect-app-v1.3</link>
     <guid>https://docs.smartconnections.app/Blog/Exploring-Smart-Connect-app-v1.3</guid>
@@ -47,24 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Connect-app/Custom-Actions</guid>
     <description>What are custom actions? “Custom Actions empower you to execute local functions with unparalleled ease, bypassing the complexities of server hosting. Simplify your development workflow and boost productivity with Smart Actions.” “Custom Actions make executing local functions as easy as flipping a switch.</description>
     <pubDate>Tue, 10 Sep 2024 14:26:20 GMT</pubDate>
-  </item><item>
-    <title>Smart Ecosystem</title>
-    <link>https://docs.smartconnections.app/</link>
-    <guid>https://docs.smartconnections.app/</guid>
-    <description>Getting Started Getting Started with Obsidian, Smart Connections &amp; Smart Connect for ChatGPT Videos Smart Connect App Getting Started Getting Started with Smart Connect Welcome ...</description>
-    <pubDate>Wed, 07 Aug 2024 14:14:50 GMT</pubDate>
-  </item><item>
-    <title>Help debug Smart Connections issues</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Help-debug-Smart-Connections-issues</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Help-debug-Smart-Connections-issues</guid>
-    <description>The steps necessary to help me debug an issue at start-up. make sure this setting in Obsidian is toggled on open the developer console logs (on windows: CTRL+SHIFT+i) Clear the logs: Disable &amp; Re-enable Smart Connections Screenshot errors in the logs and send them to me for review.</description>
-    <pubDate>Wed, 05 Jun 2024 20:59:25 GMT</pubDate>
-  </item><item>
-    <title>Smart Connections &amp; Smart Connect - Bringing AI to Your Obsidian Vault</title>
-    <link>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</link>
-    <guid>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</guid>
-    <description>Hey there, fellow knowledge explorers and productivity experts! 🌟 Are you ready to take your Obsidian note-taking to the next level? Obsidian has revolutionized the way we capture ...</description>
-    <pubDate>Fri, 26 Apr 2024 18:57:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
