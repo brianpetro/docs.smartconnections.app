@@ -6,6 +6,12 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Exploring Smart Connect app v1.3</title>
+    <link>https://docs.smartconnections.app/Blog/Exploring-Smart-Connect-app-v1.3</link>
+    <guid>https://docs.smartconnections.app/Blog/Exploring-Smart-Connect-app-v1.3</guid>
+    <description> Watch on YouTube.</description>
+    <pubDate>Wed, 02 Oct 2024 12:15:06 GMT</pubDate>
+  </item><item>
     <title>Smart Environments in Smart Connect</title>
     <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</link>
     <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</guid>
@@ -59,12 +65,6 @@
     <guid>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</guid>
     <description>Hey there, fellow knowledge explorers and productivity experts! 🌟 Are you ready to take your Obsidian note-taking to the next level? Obsidian has revolutionized the way we capture ...</description>
     <pubDate>Fri, 26 Apr 2024 18:57:03 GMT</pubDate>
-  </item><item>
-    <title>Getting Started with the Private Chat for Smart Connections Supporters</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Getting-Started-with-the-Private-Chat-for-Smart-Connections-Supporters</guid>
-    <description>After signing up using the special link in your supporter welcome email: Download and Installation: The Smart Connections chat can be used in the web browser and through Progressive ...</description>
-    <pubDate>Fri, 26 Apr 2024 16:09:57 GMT</pubDate>
   </item>
     </channel>
   </rss>
