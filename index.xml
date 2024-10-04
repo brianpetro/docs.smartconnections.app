@@ -6,6 +6,12 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Prompt Library</title>
+    <link>https://docs.smartconnections.app/Prompt-Library</link>
+    <guid>https://docs.smartconnections.app/Prompt-Library</guid>
+    <description>...</description>
+    <pubDate>Fri, 04 Oct 2024 01:46:51 GMT</pubDate>
+  </item><item>
     <title>Inspect blocks created for a note</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</guid>
@@ -27,7 +33,7 @@
     <title>Smart Environments in Smart Connect</title>
     <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</link>
     <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</guid>
-    <description>Smart Environments are a core component of the Smart Connect app. They define the connection between your computer and the AI, specifying which files are accessible (sources) and how they are processed (actions).</description>
+    <description>Smart Environments are a core component of the Smart Connect app, designed to provide seamless integration between your local notes and AI-powered processing ...</description>
     <pubDate>Wed, 02 Oct 2024 22:20:39 GMT</pubDate>
   </item><item>
     <title>Mission</title>
@@ -59,12 +65,6 @@
     <guid>https://docs.smartconnections.app/Screenshot-Showcase</guid>
     <description></description>
     <pubDate>Fri, 20 Sep 2024 13:08:07 GMT</pubDate>
-  </item><item>
-    <title>Troubleshooting</title>
-    <link>https://docs.smartconnections.app/Troubleshooting</link>
-    <guid>https://docs.smartconnections.app/Troubleshooting</guid>
-    <description>Smart Connections Obsidian plugin Help debug Smart Connections issues Embedding processing Was it working previously? Try using the legacy version of HuggingFace Transformers ...</description>
-    <pubDate>Wed, 11 Sep 2024 14:38:44 GMT</pubDate>
   </item>
     </channel>
   </rss>
