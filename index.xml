@@ -6,9 +6,9 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Smart Sources</title>
-    <link>https://docs.smartconnections.app/Settings/Smart-Sources</link>
-    <guid>https://docs.smartconnections.app/Settings/Smart-Sources</guid>
+    <title>Smart Sources settings</title>
+    <link>https://docs.smartconnections.app/Settings/Smart-Sources-settings</link>
+    <guid>https://docs.smartconnections.app/Settings/Smart-Sources-settings</guid>
     <description>Embedding Model Description: The Embedding Model determines how your notes are converted into vector representations for AI processing. Selecting a Model: Choose from available models (e.g., &quot;TaylorAI/bge-micro-v2&quot;).</description>
     <pubDate>Tue, 15 Oct 2024 19:21:31 GMT</pubDate>
   </item><item>
