@@ -24,15 +24,9 @@
     <description>Smart Environments are a core component of the Smart Connect app, designed to provide seamless integration between your local notes and AI-powered processing ...</description>
     <pubDate>Wed, 16 Oct 2024 17:58:38 GMT</pubDate>
   </item><item>
-    <title>+ BIG Ideas</title>
-    <link>https://docs.smartconnections.app/Blog/BIG-Ideas/+-BIG-Ideas</link>
-    <guid>https://docs.smartconnections.app/Blog/BIG-Ideas/+-BIG-Ideas</guid>
-    <description>Evolving content ideas Note per “Big Idea” Links to relevant Published content Tweets, air chats, YouTubes Analysis of response by audience Clarified Target Audience (TA) Smart ...</description>
-    <pubDate>Wed, 16 Oct 2024 17:58:38 GMT</pubDate>
-  </item><item>
     <title>Individual aligned AI will be our only hope against capable bad actors</title>
-    <link>https://docs.smartconnections.app/Blog/BIG-Ideas/Individual-aligned-AI-will-be-our-only-hope-against-capable-bad-actors</link>
-    <guid>https://docs.smartconnections.app/Blog/BIG-Ideas/Individual-aligned-AI-will-be-our-only-hope-against-capable-bad-actors</guid>
+    <link>https://docs.smartconnections.app/Blog/Individual-aligned-AI-will-be-our-only-hope-against-capable-bad-actors</link>
+    <guid>https://docs.smartconnections.app/Blog/Individual-aligned-AI-will-be-our-only-hope-against-capable-bad-actors</guid>
     <description>key points Prevents reliance on a single centralized source Maintains focus on the individual’s desires Reduces complexity of the necessary solution .</description>
     <pubDate>Wed, 16 Oct 2024 17:58:38 GMT</pubDate>
   </item><item>
@@ -65,6 +59,12 @@
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</guid>
     <description>...</description>
     <pubDate>Thu, 03 Oct 2024 16:00:20 GMT</pubDate>
+  </item><item>
+    <title>Settings in Smart Connect</title>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</guid>
+    <description>The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality.</description>
+    <pubDate>Wed, 02 Oct 2024 22:20:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
