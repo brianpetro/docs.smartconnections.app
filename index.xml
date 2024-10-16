@@ -6,65 +6,65 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>PKM Demo vault</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/PKM-Demo-vault</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/PKM-Demo-vault</guid>
+    <description>Explore an Obsidian vault about PKM. Smart Connections plugin is already installed and embeddings are included. On GitHub Download link.</description>
+    <pubDate>Wed, 16 Oct 2024 15:36:05 GMT</pubDate>
+  </item><item>
     <title>Smart Sources settings</title>
     <link>https://docs.smartconnections.app/Settings/Smart-Sources-settings</link>
     <guid>https://docs.smartconnections.app/Settings/Smart-Sources-settings</guid>
     <description>Embedding Model Description: The Embedding Model determines how your notes are converted into vector representations for AI processing. Selecting a Model: Choose from available models (e.g., &quot;TaylorAI/bge-micro-v2&quot;).</description>
-    <pubDate>Tue, 15 Oct 2024 19:21:31 GMT</pubDate>
-  </item><item>
-    <title>Smart Ecosystem</title>
-    <link>https://docs.smartconnections.app/</link>
-    <guid>https://docs.smartconnections.app/</guid>
-    <description>Smart Connections Docs Smart Connect app Smart Connections Obsidian plugin Blog Mission Workflows Obsidian Install Obsidian Plugin View code on GitHub ChatGPT Smart Connect App ...</description>
-    <pubDate>Tue, 15 Oct 2024 13:43:47 GMT</pubDate>
+    <pubDate>Wed, 16 Oct 2024 13:03:45 GMT</pubDate>
   </item><item>
     <title>Manual Re-Embedding for Specific Notes</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Manual-Re-Embedding-for-Specific-Notes</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Manual-Re-Embedding-for-Specific-Notes</guid>
     <description>To re-embed a single note within Obsidian, use the “Refresh &amp; make connections” command.</description>
-    <pubDate>Fri, 04 Oct 2024 11:35:09 GMT</pubDate>
-  </item><item>
-    <title>Prompt Library</title>
-    <link>https://docs.smartconnections.app/Prompt-Library</link>
-    <guid>https://docs.smartconnections.app/Prompt-Library</guid>
-    <description>...</description>
-    <pubDate>Fri, 04 Oct 2024 01:46:51 GMT</pubDate>
+    <pubDate>Fri, 04 Oct 2024 03:27:38 GMT</pubDate>
   </item><item>
     <title>Inspect blocks created for a note</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</guid>
     <description>...</description>
-    <pubDate>Thu, 03 Oct 2024 16:00:20 GMT</pubDate>
+    <pubDate>Fri, 04 Oct 2024 03:20:24 GMT</pubDate>
   </item><item>
-    <title>Settings in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</guid>
-    <description>The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality.</description>
-    <pubDate>Wed, 02 Oct 2024 22:20:39 GMT</pubDate>
+    <title>Prompt Library</title>
+    <link>https://docs.smartconnections.app/Prompt-Library</link>
+    <guid>https://docs.smartconnections.app/Prompt-Library</guid>
+    <description>...</description>
+    <pubDate>Fri, 04 Oct 2024 03:20:24 GMT</pubDate>
   </item><item>
-    <title>Smart Actions in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Actions-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Actions-in-Smart-Connect</guid>
-    <description>Smart Actions allow you to define how the AI interacts with your notes by specifying the operations it can perform. They are crucial for managing workflows and customizing AI behavior to suit your specific needs.</description>
-    <pubDate>Wed, 02 Oct 2024 22:20:39 GMT</pubDate>
+    <title>Elevate Your Obsidian Experience with Smart Connections</title>
+    <link>https://docs.smartconnections.app/Blog/Elevate-Your-Obsidian-Experience-with-Smart-Connections</link>
+    <guid>https://docs.smartconnections.app/Blog/Elevate-Your-Obsidian-Experience-with-Smart-Connections</guid>
+    <description>This blog post was written with the help of Smart Connections and Smart Connect (currently in beta-testing with project supporters). What’s New in v2.1? Smart Connections v2.1 is packed with features designed for everyone—from the casual user to the power user: 100+ AI Models: Now you have a veritable smorgasbord of AI models to choose from.</description>
+    <pubDate>Wed, 02 Oct 2024 13:51:24 GMT</pubDate>
   </item><item>
-    <title>Smart Environments in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</guid>
-    <description>Smart Environments are a core component of the Smart Connect app, designed to provide seamless integration between your local notes and AI-powered processing ...</description>
-    <pubDate>Wed, 02 Oct 2024 22:20:39 GMT</pubDate>
+    <title>Exploring Smart Connect app v1.3</title>
+    <link>https://docs.smartconnections.app/Blog/Exploring-Smart-Connect-app-v1.3</link>
+    <guid>https://docs.smartconnections.app/Blog/Exploring-Smart-Connect-app-v1.3</guid>
+    <description> Watch on YouTube.</description>
+    <pubDate>Wed, 02 Oct 2024 13:51:24 GMT</pubDate>
+  </item><item>
+    <title>Smart Connections &amp; Smart Connect - Bringing AI to Your Obsidian Vault</title>
+    <link>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</link>
+    <guid>https://docs.smartconnections.app/Blog/Smart-Connections--and--Smart-Connect---Bringing-AI-to-Your-Obsidian-Vault</guid>
+    <description>Hey there, fellow knowledge explorers and productivity experts! 🌟 Are you ready to take your Obsidian note-taking to the next level? Obsidian has revolutionized the way we capture ...</description>
+    <pubDate>Wed, 02 Oct 2024 13:51:24 GMT</pubDate>
   </item><item>
     <title>Mission</title>
     <link>https://docs.smartconnections.app/Mission</link>
     <guid>https://docs.smartconnections.app/Mission</guid>
     <description> Join the Future of AI: Personalize Your Smart Environment with Us Enhancing Your Abilities with Ethical AI: The Mission Behind Smart Connections .</description>
-    <pubDate>Wed, 02 Oct 2024 12:24:25 GMT</pubDate>
+    <pubDate>Wed, 02 Oct 2024 13:51:24 GMT</pubDate>
   </item><item>
-    <title>Workflows</title>
-    <link>https://docs.smartconnections.app/Workflows</link>
-    <guid>https://docs.smartconnections.app/Workflows</guid>
-    <description>Videos Connect Obsidian to Make.com with Smart Connect How Accurate is ChatGPT at Transcribing Handwritten Notes? Find Out! How I Use Smart Connect Transcribe GPT for Effortless ...</description>
-    <pubDate>Wed, 02 Oct 2024 12:21:35 GMT</pubDate>
+    <title>Creating a Custom GPT with Smart Connect</title>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Creating-a-Custom-GPT-with-Smart-Connect</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Creating-a-Custom-GPT-with-Smart-Connect</guid>
+    <description>This guide will help you create a custom GPT assistant that interacts with your Obsidian vault using the Smart Connect plugin. Preparation: Obsidian &amp; Smart Connect: Ensure you have Obsidian and the Smart Connect plugin installed and set up.</description>
+    <pubDate>Wed, 02 Oct 2024 13:51:24 GMT</pubDate>
   </item>
     </channel>
   </rss>
