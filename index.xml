@@ -6,23 +6,29 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Quick Start</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-Quick-Start-Guide</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-Quick-Start-Guide</guid>
+    <description> Installing Smart Connections Obsidian Plugin Open Obsidian. Navigate to Settings &gt; Community Plugins. Click on Browse and search for Smart Connections.</description>
+    <pubDate>Thu, 17 Oct 2024 20:35:36 GMT</pubDate>
+  </item><item>
+    <title>FAQs</title>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-FAQs</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-FAQs</guid>
+    <description>Is my data secure when using Smart Connect? Yes, Smart Connect operates locally, and your data is never saved on servers when using the Smart Connect Official Service ...</description>
+    <pubDate>Thu, 17 Oct 2024 20:32:45 GMT</pubDate>
+  </item><item>
+    <title>FAQs</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-FAQs</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-FAQs</guid>
+    <description>Can I use Smart Connections without Smart Connect? Yes, Smart Connections can be used independently within Obsidian. Smart Connect adds additional functionality by integrating with ChatGPT.</description>
+    <pubDate>Thu, 17 Oct 2024 20:24:27 GMT</pubDate>
+  </item><item>
     <title>Introducing Smart Context for VS Code</title>
     <link>https://docs.smartconnections.app/Blog/Introducing-Smart-Context-for-VS-Code</link>
     <guid>https://docs.smartconnections.app/Blog/Introducing-Smart-Context-for-VS-Code</guid>
     <description>Securely Enhance Your AI Coding Workflow in VS Code In today’s rapidly evolving development world, integrating AI tools like ChatGPT into your workflow is becoming more common ...</description>
     <pubDate>Wed, 16 Oct 2024 21:26:58 GMT</pubDate>
-  </item><item>
-    <title>PKM Demo vault</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/PKM-Demo-vault</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/PKM-Demo-vault</guid>
-    <description>Explore an Obsidian vault about PKM. Smart Connections plugin is already installed and embeddings are included. On GitHub Download link.</description>
-    <pubDate>Wed, 16 Oct 2024 17:58:38 GMT</pubDate>
-  </item><item>
-    <title>Smart Environments in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Environments-in-Smart-Connect</guid>
-    <description>Smart Environments are a core component of the Smart Connect app, designed to provide seamless integration between your local notes and AI-powered processing ...</description>
-    <pubDate>Wed, 16 Oct 2024 17:58:38 GMT</pubDate>
   </item><item>
     <title>Individual aligned AI will be our only hope against capable bad actors</title>
     <link>https://docs.smartconnections.app/Blog/Individual-aligned-AI-will-be-our-only-hope-against-capable-bad-actors</link>
@@ -30,41 +36,35 @@
     <description>key points Prevents reliance on a single centralized source Maintains focus on the individual’s desires Reduces complexity of the necessary solution .</description>
     <pubDate>Wed, 16 Oct 2024 17:58:38 GMT</pubDate>
   </item><item>
+    <title>PKM Demo vault</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/PKM-Demo-vault</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/PKM-Demo-vault</guid>
+    <description>Explore an Obsidian vault about PKM. Smart Connections plugin is already installed and embeddings are included. On GitHub Download link.</description>
+    <pubDate>Wed, 16 Oct 2024 15:36:05 GMT</pubDate>
+  </item><item>
     <title>Smart Sources settings</title>
     <link>https://docs.smartconnections.app/Settings/Smart-Sources-settings</link>
     <guid>https://docs.smartconnections.app/Settings/Smart-Sources-settings</guid>
     <description>Embedding Model Description: The Embedding Model determines how your notes are converted into vector representations for AI processing. Selecting a Model: Choose from available models (e.g., &quot;TaylorAI/bge-micro-v2&quot;).</description>
     <pubDate>Tue, 15 Oct 2024 19:21:31 GMT</pubDate>
   </item><item>
-    <title>Smart Ecosystem</title>
-    <link>https://docs.smartconnections.app/</link>
-    <guid>https://docs.smartconnections.app/</guid>
-    <description>Smart Connections Docs Smart Connect app Smart Connections Obsidian plugin Blog Mission Workflows Obsidian Install Obsidian Plugin View code on GitHub ChatGPT Smart Connect App ...</description>
-    <pubDate>Tue, 15 Oct 2024 13:43:47 GMT</pubDate>
-  </item><item>
     <title>Manual Re-Embedding for Specific Notes</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Manual-Re-Embedding-for-Specific-Notes</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Manual-Re-Embedding-for-Specific-Notes</guid>
     <description>To re-embed a single note within Obsidian, use the “Refresh &amp; make connections” command.</description>
-    <pubDate>Fri, 04 Oct 2024 11:35:09 GMT</pubDate>
-  </item><item>
-    <title>Prompt Library</title>
-    <link>https://docs.smartconnections.app/Prompt-Library</link>
-    <guid>https://docs.smartconnections.app/Prompt-Library</guid>
-    <description>...</description>
-    <pubDate>Fri, 04 Oct 2024 01:46:51 GMT</pubDate>
+    <pubDate>Fri, 04 Oct 2024 03:27:38 GMT</pubDate>
   </item><item>
     <title>Inspect blocks created for a note</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</guid>
     <description>...</description>
-    <pubDate>Thu, 03 Oct 2024 16:00:20 GMT</pubDate>
+    <pubDate>Fri, 04 Oct 2024 03:20:24 GMT</pubDate>
   </item><item>
-    <title>Settings in Smart Connect</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Settings-in-Smart-Connect</guid>
-    <description>The Settings section allows you to configure global preferences, security options, and other important aspects of the Smart Connect app. This includes managing your connection to the Smart Connect Official Service, adjusting security settings, monitoring performance and token usage, and utilizing debugging tools to maintain optimal functionality.</description>
-    <pubDate>Wed, 02 Oct 2024 22:20:39 GMT</pubDate>
+    <title>Prompt Library</title>
+    <link>https://docs.smartconnections.app/Prompt-Library</link>
+    <guid>https://docs.smartconnections.app/Prompt-Library</guid>
+    <description>...</description>
+    <pubDate>Fri, 04 Oct 2024 03:20:24 GMT</pubDate>
   </item>
     </channel>
   </rss>
