@@ -6,6 +6,12 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Overview</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-docs</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-docs</guid>
+    <description>Commands Open view Find connections Refresh &amp; Make Connections: updates embedding before finding connections Random Smart Connection: opens random note based on connections ...</description>
+    <pubDate>Fri, 18 Oct 2024 12:07:53 GMT</pubDate>
+  </item><item>
     <title>Quick Start</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-Quick-Start-Guide</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-Quick-Start-Guide</guid>
@@ -57,12 +63,6 @@
     <title>Inspect blocks created for a note</title>
     <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</link>
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Inspect-blocks-created-for-a-note</guid>
-    <description>...</description>
-    <pubDate>Fri, 04 Oct 2024 03:20:24 GMT</pubDate>
-  </item><item>
-    <title>Prompt Library</title>
-    <link>https://docs.smartconnections.app/Prompt-Library</link>
-    <guid>https://docs.smartconnections.app/Prompt-Library</guid>
     <description>...</description>
     <pubDate>Fri, 04 Oct 2024 03:20:24 GMT</pubDate>
   </item>
