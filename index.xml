@@ -6,10 +6,16 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Stability vs Innovation in the Smart Ecosystem</title>
+    <link>https://docs.smartconnections.app/Blog/Stability-vs-Innovation-in-the-Smart-Ecosystem</link>
+    <guid>https://docs.smartconnections.app/Blog/Stability-vs-Innovation-in-the-Smart-Ecosystem</guid>
+    <description>I wanted to take a moment to address a topic that’s been on my mind lately: the balance between stability and innovation within our Smart Ecosystem. As many of you know, our primary mission is to empower individuals with AI through open-source software.</description>
+    <pubDate>Sun, 20 Oct 2024 20:46:33 GMT</pubDate>
+  </item><item>
     <title>Introduction to Smart Environments</title>
     <link>https://docs.smartconnections.app/Introduction-to-Smart-Environments</link>
     <guid>https://docs.smartconnections.app/Introduction-to-Smart-Environments</guid>
-    <description>Shared Infrastructure Both the Obsidian plugin and the Smart Connect App utilize the Smart Environment to interact with your notes. They share settings through a common configuration file, ensuring consistency.</description>
+    <description>Key Features Acts as a bridge between your local notes and AI tools, providing a controlled environment for data processing. Keeps your data on your local machine, ensuring privacy and security.</description>
     <pubDate>Sun, 20 Oct 2024 20:17:01 GMT</pubDate>
   </item><item>
     <title>Future developments</title>
@@ -59,12 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-FAQs</guid>
     <description>Can I use Smart Connections without Smart Connect? Yes, Smart Connections can be used independently within Obsidian. Smart Connect adds additional functionality by integrating with ChatGPT.</description>
     <pubDate>Thu, 17 Oct 2024 20:24:27 GMT</pubDate>
-  </item><item>
-    <title>Introducing Smart Context for VS Code</title>
-    <link>https://docs.smartconnections.app/Blog/Introducing-Smart-Context-for-VS-Code</link>
-    <guid>https://docs.smartconnections.app/Blog/Introducing-Smart-Context-for-VS-Code</guid>
-    <description>Securely Enhance Your AI Coding Workflow in VS Code In today’s rapidly evolving development world, integrating AI tools like ChatGPT into your workflow is becoming more common ...</description>
-    <pubDate>Wed, 16 Oct 2024 21:26:58 GMT</pubDate>
   </item>
     </channel>
   </rss>
