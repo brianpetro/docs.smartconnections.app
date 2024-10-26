@@ -6,6 +6,18 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Commands</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/SC-Commands-docs</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/SC-Commands-docs</guid>
+    <description>Commands in the Obsidian Smart Connections plugin are accessed using the Obsidian Command palette. Random Note opens a random note from the connections to the current note Refresh &amp; Make Connections recreates the embedding for the current note and refreshed the Connections pane (Smart Connections view) Open: Connections pane (Smart Connections view; “Find Connections”) Smart Lookup (semantic search) pane ChatGPT pane Smart Chat .</description>
+    <pubDate>Sat, 26 Oct 2024 20:35:44 GMT</pubDate>
+  </item><item>
+    <title>Connections pane</title>
+    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Connections-pane-(Smart-Connections-view)</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Connections-pane-(Smart-Connections-view)</guid>
+    <description>why Linking relevant notes is a best practice in most personal knowledge management (PKM) systems. Unfortunately, this is a time consuming process and linking to all relevant content has many undesired side effects.</description>
+    <pubDate>Sat, 26 Oct 2024 20:11:50 GMT</pubDate>
+  </item><item>
     <title>Stability vs Innovation in the Smart Ecosystem</title>
     <link>https://docs.smartconnections.app/Blog/Stability-vs-Innovation-in-the-Smart-Ecosystem</link>
     <guid>https://docs.smartconnections.app/Blog/Stability-vs-Innovation-in-the-Smart-Ecosystem</guid>
@@ -53,18 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-Quick-Start-Guide</guid>
     <description>...</description>
     <pubDate>Thu, 17 Oct 2024 20:35:36 GMT</pubDate>
-  </item><item>
-    <title>FAQs</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-FAQs</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-FAQs</guid>
-    <description>Is my data secure when using Smart Connect? Yes, Smart Connect operates locally, and your data is never saved on servers when using the Smart Connect Official Service ...</description>
-    <pubDate>Thu, 17 Oct 2024 20:32:45 GMT</pubDate>
-  </item><item>
-    <title>FAQs</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-FAQs</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-FAQs</guid>
-    <description>Can I use Smart Connections without Smart Connect? Yes, Smart Connections can be used independently within Obsidian. Smart Connect adds additional functionality by integrating with ChatGPT.</description>
-    <pubDate>Thu, 17 Oct 2024 20:24:27 GMT</pubDate>
   </item>
     </channel>
   </rss>
