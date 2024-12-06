@@ -6,65 +6,65 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Build Smart Actions</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Build-Smart-Actions</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Build-Smart-Actions</guid>
-    <description>What are Smart Actions? Smart Actions are reusable JavaScript modules designed to perform discrete tasks within the Smart Environment. They serve as behavioral primitives that can be combined into sequences using Smart Collections or Action Groups, enabling complex operations through simple, modular components.</description>
-    <pubDate>Thu, 07 Nov 2024 19:04:44 GMT</pubDate>
+    <title>Community Lean Coffee 2024-11-15</title>
+    <link>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-11-15</link>
+    <guid>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-11-15</guid>
+    <description> transcript Matthew Oatts Nice. All right. Is it Fran or Fran, by the way? Fran Abenza Whatever. Like I get. 🌴 Brian All right. Matthew Oatts So, Ron, I know that you’ve watched some of the recordings maybe, but this is the first time you’ve actually joined live.</description>
+    <pubDate>Fri, 06 Dec 2024 16:42:07 GMT</pubDate>
   </item><item>
-    <title>Settings in Smart Connections</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-settings</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Smart-Connections-settings</guid>
-    <description>Documentation how to configure settings in the Obsidian Smart Connections plugin. DO may be index that links to settings sections in component-specific pages .</description>
-    <pubDate>Tue, 05 Nov 2024 01:37:52 GMT</pubDate>
+    <title>Smart Connect instructions for accessing two Smart Environments (vaults) with one Custom GPT</title>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-instructions-for-accessing-two-Smart-Environments-(vaults)-with-one-Custom-GPT</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-instructions-for-accessing-two-Smart-Environments-(vaults)-with-one-Custom-GPT</guid>
+    <description>...</description>
+    <pubDate>Tue, 03 Dec 2024 22:20:28 GMT</pubDate>
   </item><item>
-    <title>Lookup pane</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Lookup-pane-(Smart-Lookup-view)</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Lookup-pane-(Smart-Lookup-view)</guid>
-    <description> formerly “Smart Search” .</description>
-    <pubDate>Tue, 05 Nov 2024 01:24:58 GMT</pubDate>
+    <title>Purpose and Benefits of User-Funded Support for Smart Connections</title>
+    <link>https://docs.smartconnections.app/Blog/Purpose-and-Benefits-of-User-Funded-Support-for-Smart-Connections</link>
+    <guid>https://docs.smartconnections.app/Blog/Purpose-and-Benefits-of-User-Funded-Support-for-Smart-Connections</guid>
+    <description>Introduction Smart Connections is committed to empowering individuals by providing open-source, privacy-focused AI tools that enhance personal productivity and knowledge ...</description>
+    <pubDate>Sun, 01 Dec 2024 18:57:29 GMT</pubDate>
   </item><item>
-    <title>Chat pane</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Chat-pane-(Smart-Chat-view)</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Chat-pane-(Smart-Chat-view)</guid>
-    <description></description>
-    <pubDate>Tue, 05 Nov 2024 01:23:35 GMT</pubDate>
+    <title>How to Support</title>
+    <link>https://docs.smartconnections.app/How-to-Support</link>
+    <guid>https://docs.smartconnections.app/How-to-Support</guid>
+    <description>How to Support Smart Connections Non-Monetary Support Share Your Experience: Tell your friends and colleagues about Smart Connections. Imagine what it might look like if Smart Connections improved a workflow and share it.</description>
+    <pubDate>Sun, 01 Dec 2024 18:17:46 GMT</pubDate>
   </item><item>
-    <title>Community Lean Coffee</title>
-    <link>https://docs.smartconnections.app/Community-Lean-Coffee/</link>
-    <guid>https://docs.smartconnections.app/Community-Lean-Coffee/</guid>
-    <description>Our Lean Coffee meetings are an open, collaborative space where members of the Smart Connections community come together to share ideas, discuss topics of interest, and build connections ...</description>
-    <pubDate>Thu, 31 Oct 2024 23:28:28 GMT</pubDate>
+    <title>Smart Connect Quick Start Guide</title>
+    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-Quick-Start-Guide</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-Quick-Start-Guide</guid>
+    <description>Introduction Overview of Smart Connect Key benefits and features Installation Step-by-step installation instructions Configuration Initial setup and configuration steps ...</description>
+    <pubDate>Sun, 01 Dec 2024 18:16:00 GMT</pubDate>
   </item><item>
-    <title>Community Lean Coffee 2024-10-31</title>
-    <link>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-10-31</link>
-    <guid>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-10-31</guid>
-    <description> 🌴 Brian’s notes Search in Smart Chat and Roadmap I’ve been working on enhancing the Smart Chat functionality within Obsidian. Currently, the existing version of Smart Chat is limited to single-step interactions, and it’s somewhat outdated.</description>
-    <pubDate>Thu, 31 Oct 2024 20:44:59 GMT</pubDate>
+    <title>Thread Actions</title>
+    <link>https://docs.smartconnections.app/Smart-Chat/Thread-Actions</link>
+    <guid>https://docs.smartconnections.app/Smart-Chat/Thread-Actions</guid>
+    <description> rename history new .</description>
+    <pubDate>Wed, 27 Nov 2024 14:42:57 GMT</pubDate>
   </item><item>
-    <title>Smart Connect Update: Let&#039;s Dive into Community Actions and Custom GPTs</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Videos/Smart-Connect-Update-2024-10-31</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Videos/Smart-Connect-Update-2024-10-31</guid>
-    <description> Hey there, it’s Brian. Today, I want to walk you through a feature update I just shipped in Smart Connect, something I’m pretty excited to share—Community Actions.</description>
-    <pubDate>Thu, 31 Oct 2024 15:12:19 GMT</pubDate>
+    <title>Message Actions</title>
+    <link>https://docs.smartconnections.app/Smart-Chat/Message-Actions</link>
+    <guid>https://docs.smartconnections.app/Smart-Chat/Message-Actions</guid>
+    <description> regenerate edit copy .</description>
+    <pubDate>Wed, 27 Nov 2024 14:42:37 GMT</pubDate>
   </item><item>
-    <title>Commands</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/SC-Commands-docs</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/SC-Commands-docs</guid>
-    <description>Commands in the Obsidian Smart Connections plugin are accessed using the Obsidian Command palette. Random Note opens a random note from the connections to the current note Refresh &amp; Make Connections recreates the embedding for the current note and refreshes the Connections pane (Smart Connections view) Open: Connections pane (Smart Connections view; “Find Connections”) Smart Lookup (semantic search) pane ChatGPT pane Smart Chat .</description>
-    <pubDate>Sat, 26 Oct 2024 20:35:44 GMT</pubDate>
+    <title>User Messages (Chat Input)</title>
+    <link>https://docs.smartconnections.app/Smart-Chat/User-Messages-(Chat-Input)</link>
+    <guid>https://docs.smartconnections.app/Smart-Chat/User-Messages-(Chat-Input)</guid>
+    <description>Context selection Typing @ in the chat input opens context selection interface File selection enter inserts selected content as link Includes linked item prior to user message, ...</description>
+    <pubDate>Wed, 27 Nov 2024 14:41:36 GMT</pubDate>
   </item><item>
-    <title>Connections pane</title>
-    <link>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Connections-pane-(Smart-Connections-view)</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections-Obsidian-plugin/Connections-pane-(Smart-Connections-view)</guid>
-    <description> why Linking relevant notes is a best practice in most personal knowledge management (PKM) systems. Unfortunately, this is a time consuming process and linking to all relevant content has many undesired side effects.</description>
-    <pubDate>Sat, 26 Oct 2024 20:11:50 GMT</pubDate>
+    <title>Context Review</title>
+    <link>https://docs.smartconnections.app/Smart-Chat/Context-Review</link>
+    <guid>https://docs.smartconnections.app/Smart-Chat/Context-Review</guid>
+    <description>The Context Review UI allows users to preview and approve the retrieved context before it’s sent to the chat model. This feature enhances control and ensures relevance in AI responses, particularly for complex queries.</description>
+    <pubDate>Wed, 27 Nov 2024 14:40:16 GMT</pubDate>
   </item><item>
-    <title>Stability vs Innovation in the Smart Ecosystem</title>
-    <link>https://docs.smartconnections.app/Blog/Stability-vs-Innovation-in-the-Smart-Ecosystem</link>
-    <guid>https://docs.smartconnections.app/Blog/Stability-vs-Innovation-in-the-Smart-Ecosystem</guid>
-    <description>I wanted to take a moment to address a topic that’s been on my mind lately: the balance between stability and innovation within our Smart Ecosystem. As many of you know, our primary mission is to empower individuals with AI through open-source software.</description>
-    <pubDate>Sun, 20 Oct 2024 20:46:33 GMT</pubDate>
+    <title>Settings in Smart Chat</title>
+    <link>https://docs.smartconnections.app/Smart-Chat/Chat-Settings</link>
+    <guid>https://docs.smartconnections.app/Smart-Chat/Chat-Settings</guid>
+    <description>...</description>
+    <pubDate>Wed, 27 Nov 2024 14:39:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
