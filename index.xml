@@ -6,6 +6,30 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Smart Context VS Code extension</title>
+    <link>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</link>
+    <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</guid>
+    <description>Get the Smart Context extension on GitHub.</description>
+    <pubDate>Thu, 12 Dec 2024 02:06:23 GMT</pubDate>
+  </item><item>
+    <title>Obsidian plugin</title>
+    <link>https://docs.smartconnections.app/Smart-Context/Smart-Context-Obsidian-plugin</link>
+    <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-Obsidian-plugin</guid>
+    <description>Install Smart Context in Obsidian. The Smart Context code is open-source. Read the code, contribute improvements, report issues, and discuss workflows on GitHub.</description>
+    <pubDate>Thu, 12 Dec 2024 02:01:00 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://docs.smartconnections.app/Smart-Context/</link>
+    <guid>https://docs.smartconnections.app/Smart-Context/</guid>
+    <description>Smart Context makes it easy to build prompts with lots of context. Copy entire folders into the clipboard for easy pasting into ChatGPT. Copy open files to the clipboard.</description>
+    <pubDate>Thu, 12 Dec 2024 01:51:26 GMT</pubDate>
+  </item><item>
+    <title>Note-based prompt building with Smart Context</title>
+    <link>https://docs.smartconnections.app/Workflows/Note-based-prompt-building-with-Smart-Context</link>
+    <guid>https://docs.smartconnections.app/Workflows/Note-based-prompt-building-with-Smart-Context</guid>
+    <description>what Use a note-based workflow to build complex prompts that include referenced notes as context. Implements RAG using links to retrieve content to include in the prompt.</description>
+    <pubDate>Thu, 12 Dec 2024 01:46:36 GMT</pubDate>
+  </item><item>
     <title>Community Lean Coffee 2024-11-15</title>
     <link>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-11-15</link>
     <guid>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-11-15</guid>
@@ -41,30 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Chat/Thread-Actions</guid>
     <description> rename history new .</description>
     <pubDate>Wed, 27 Nov 2024 14:42:57 GMT</pubDate>
-  </item><item>
-    <title>Message Actions</title>
-    <link>https://docs.smartconnections.app/Smart-Chat/Message-Actions</link>
-    <guid>https://docs.smartconnections.app/Smart-Chat/Message-Actions</guid>
-    <description> regenerate edit copy .</description>
-    <pubDate>Wed, 27 Nov 2024 14:42:37 GMT</pubDate>
-  </item><item>
-    <title>User Messages (Chat Input)</title>
-    <link>https://docs.smartconnections.app/Smart-Chat/User-Messages-(Chat-Input)</link>
-    <guid>https://docs.smartconnections.app/Smart-Chat/User-Messages-(Chat-Input)</guid>
-    <description>Context selection Typing @ in the chat input opens context selection interface File selection enter inserts selected content as link Includes linked item prior to user message, ...</description>
-    <pubDate>Wed, 27 Nov 2024 14:41:36 GMT</pubDate>
-  </item><item>
-    <title>Context Review</title>
-    <link>https://docs.smartconnections.app/Smart-Chat/Context-Review</link>
-    <guid>https://docs.smartconnections.app/Smart-Chat/Context-Review</guid>
-    <description>The Context Review UI allows users to preview and approve the retrieved context before it’s sent to the chat model. This feature enhances control and ensures relevance in AI responses, particularly for complex queries.</description>
-    <pubDate>Wed, 27 Nov 2024 14:40:16 GMT</pubDate>
-  </item><item>
-    <title>Settings in Smart Chat</title>
-    <link>https://docs.smartconnections.app/Smart-Chat/Chat-Settings</link>
-    <guid>https://docs.smartconnections.app/Smart-Chat/Chat-Settings</guid>
-    <description>...</description>
-    <pubDate>Wed, 27 Nov 2024 14:39:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
