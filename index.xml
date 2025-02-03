@@ -6,6 +6,12 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Getting Started</title>
+    <link>https://docs.smartconnections.app/Smart-Note-Visualizer/Getting-Started</link>
+    <guid>https://docs.smartconnections.app/Smart-Note-Visualizer/Getting-Started</guid>
+    <description>Getting Started with the Smart Note Visualizer Purpose / Objective Want to see your notes from a bird’s-eye view? The Smart Note Visualizer provides an intuitive graph-based representation, ...</description>
+    <pubDate>Mon, 03 Feb 2025 16:54:38 GMT</pubDate>
+  </item><item>
     <title>Smart Chat</title>
     <link>https://docs.smartconnections.app/Smart-Connections/Smart-Chat</link>
     <guid>https://docs.smartconnections.app/Smart-Connections/Smart-Chat</guid>
@@ -59,12 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</guid>
     <description>Get the Smart Context extension on GitHub.</description>
     <pubDate>Thu, 12 Dec 2024 02:06:23 GMT</pubDate>
-  </item><item>
-    <title>Obsidian plugin</title>
-    <link>https://docs.smartconnections.app/Smart-Context/Smart-Context-Obsidian-plugin</link>
-    <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-Obsidian-plugin</guid>
-    <description>Install Smart Context in Obsidian. The Smart Context code is open-source. Read the code, contribute improvements, report issues, and discuss workflows on GitHub.</description>
-    <pubDate>Thu, 12 Dec 2024 02:01:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
