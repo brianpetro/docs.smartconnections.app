@@ -6,6 +6,54 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Smart Chat</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Smart-Chat</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Smart-Chat</guid>
+    <description>Smart Chat: Chat Smarter: AI-Powered Conversations in Obsidian Purpose / Objective Ready to chat with your notes? The Smart Chat feature makes interactive, AI-backed conversations ...</description>
+    <pubDate>Fri, 31 Jan 2025 23:08:43 GMT</pubDate>
+  </item><item>
+    <title>Connections pane filters</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Connections-pane-filters</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Connections-pane-filters</guid>
+    <description>Refine Your View: Pinpoint Precision: Filtering Inbound &amp; Outbound Links Purpose / Objective Feeling overwhelmed by too many cross-links? Hone in on the exact notes you need ...</description>
+    <pubDate>Wed, 29 Jan 2025 16:36:40 GMT</pubDate>
+  </item><item>
+    <title>Lookup pane</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Lookup-pane</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Lookup-pane</guid>
+    <description>Vault-Wide Clarity: Try Lookup Mode for Semantic Search Purpose / Objective Need a quick vault-wide search that goes deeper than keyword matching? The Lookup pane has you covered ...</description>
+    <pubDate>Wed, 29 Jan 2025 12:31:51 GMT</pubDate>
+  </item><item>
+    <title>Getting started</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Getting-started</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Getting-started</guid>
+    <description>Getting Started with Smart Connections Purpose / Objective Ready to supercharge your note-taking with minimal hassle? Dive into Smart Connections—your ticket to instant clarity ...</description>
+    <pubDate>Wed, 29 Jan 2025 12:29:22 GMT</pubDate>
+  </item><item>
+    <title>Connections pane</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Connections-pane</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Connections-pane</guid>
+    <description>Instant Insights: Mastering the Connections Pane Purpose / Objective Tired of sifting through notes one by one? Instantly discover related content using Smart Connections ...</description>
+    <pubDate>Wed, 29 Jan 2025 12:29:17 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/</guid>
+    <description>Why Linking relevant notes is a best practice in most personal knowledge management (PKM) systems. Unfortunately, this is a time consuming process and linking to all relevant content has many undesired side effects.</description>
+    <pubDate>Wed, 29 Jan 2025 12:11:46 GMT</pubDate>
+  </item><item>
+    <title>Why support the smart connections project</title>
+    <link>https://docs.smartconnections.app/Supporters/Why-support-the-smart-connections-project</link>
+    <guid>https://docs.smartconnections.app/Supporters/Why-support-the-smart-connections-project</guid>
+    <description>Because supporting enables me to spend more time focused on creating tools that empower individuals like you, and reduces the amount of time, I have to spend designing ways to fund ...</description>
+    <pubDate>Sun, 12 Jan 2025 20:35:46 GMT</pubDate>
+  </item><item>
+    <title>Learning-by-moving in a PKM system</title>
+    <link>https://docs.smartconnections.app/Blog/Learning-by-moving-in-a-PKM-system</link>
+    <guid>https://docs.smartconnections.app/Blog/Learning-by-moving-in-a-PKM-system</guid>
+    <description>Conceptual explanation, practical steps, and daily exercises to foster “movement-based” learning within a Personal Knowledge Management system. Conceptual In a human brain, movement is integral to learning.</description>
+    <pubDate>Fri, 03 Jan 2025 17:12:14 GMT</pubDate>
+  </item><item>
     <title>Smart Context VS Code extension</title>
     <link>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</link>
     <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</guid>
@@ -17,54 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-Obsidian-plugin</guid>
     <description>Install Smart Context in Obsidian. The Smart Context code is open-source. Read the code, contribute improvements, report issues, and discuss workflows on GitHub.</description>
     <pubDate>Thu, 12 Dec 2024 02:01:00 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://docs.smartconnections.app/Smart-Context/</link>
-    <guid>https://docs.smartconnections.app/Smart-Context/</guid>
-    <description>Smart Context makes it easy to build prompts with lots of context. Copy entire folders into the clipboard for easy pasting into ChatGPT. Copy open files to the clipboard.</description>
-    <pubDate>Thu, 12 Dec 2024 01:51:26 GMT</pubDate>
-  </item><item>
-    <title>Note-based prompt building with Smart Context</title>
-    <link>https://docs.smartconnections.app/Workflows/Note-based-prompt-building-with-Smart-Context</link>
-    <guid>https://docs.smartconnections.app/Workflows/Note-based-prompt-building-with-Smart-Context</guid>
-    <description>what Use a note-based workflow to build complex prompts that include referenced notes as context. Implements RAG using links to retrieve content to include in the prompt.</description>
-    <pubDate>Thu, 12 Dec 2024 01:46:36 GMT</pubDate>
-  </item><item>
-    <title>Community Lean Coffee 2024-11-15</title>
-    <link>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-11-15</link>
-    <guid>https://docs.smartconnections.app/Community-Lean-Coffee/Community-Lean-Coffee-2024-11-15</guid>
-    <description> transcript Matthew Oatts Nice. All right. Is it Fran or Fran, by the way? Fran Abenza Whatever. Like I get. 🌴 Brian All right. Matthew Oatts So, Ron, I know that you’ve watched some of the recordings maybe, but this is the first time you’ve actually joined live.</description>
-    <pubDate>Fri, 06 Dec 2024 16:42:07 GMT</pubDate>
-  </item><item>
-    <title>Smart Connect instructions for accessing two Smart Environments (vaults) with one Custom GPT</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-instructions-for-accessing-two-Smart-Environments-(vaults)-with-one-Custom-GPT</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-instructions-for-accessing-two-Smart-Environments-(vaults)-with-one-Custom-GPT</guid>
-    <description>...</description>
-    <pubDate>Tue, 03 Dec 2024 22:20:28 GMT</pubDate>
-  </item><item>
-    <title>Purpose and Benefits of User-Funded Support for Smart Connections</title>
-    <link>https://docs.smartconnections.app/Blog/Purpose-and-Benefits-of-User-Funded-Support-for-Smart-Connections</link>
-    <guid>https://docs.smartconnections.app/Blog/Purpose-and-Benefits-of-User-Funded-Support-for-Smart-Connections</guid>
-    <description>Introduction Smart Connections is committed to empowering individuals by providing open-source, privacy-focused AI tools that enhance personal productivity and knowledge ...</description>
-    <pubDate>Sun, 01 Dec 2024 18:57:29 GMT</pubDate>
-  </item><item>
-    <title>How to Support</title>
-    <link>https://docs.smartconnections.app/How-to-Support</link>
-    <guid>https://docs.smartconnections.app/How-to-Support</guid>
-    <description>How to Support Smart Connections Non-Monetary Support Share Your Experience: Tell your friends and colleagues about Smart Connections. Imagine what it might look like if Smart Connections improved a workflow and share it.</description>
-    <pubDate>Sun, 01 Dec 2024 18:17:46 GMT</pubDate>
-  </item><item>
-    <title>Smart Connect Quick Start Guide</title>
-    <link>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-Quick-Start-Guide</link>
-    <guid>https://docs.smartconnections.app/Smart-Connect-app/Smart-Connect-Quick-Start-Guide</guid>
-    <description>Introduction Overview of Smart Connect Key benefits and features Installation Step-by-step installation instructions Configuration Initial setup and configuration steps ...</description>
-    <pubDate>Sun, 01 Dec 2024 18:16:00 GMT</pubDate>
-  </item><item>
-    <title>Thread Actions</title>
-    <link>https://docs.smartconnections.app/Smart-Chat/Thread-Actions</link>
-    <guid>https://docs.smartconnections.app/Smart-Chat/Thread-Actions</guid>
-    <description> rename history new .</description>
-    <pubDate>Wed, 27 Nov 2024 14:42:57 GMT</pubDate>
   </item>
     </channel>
   </rss>
