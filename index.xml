@@ -6,6 +6,24 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Solving WebGPU validation error (embedding)</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Troubleshooting/Solving-WebGPU-validation-error-(embedding)</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Troubleshooting/Solving-WebGPU-validation-error-(embedding)</guid>
+    <description>Solving WebGPU validation error A system update had caused the following issue: Solution Download and install the latest version of Obsidian. Note: downloading the latest installer is required for this fix to work.</description>
+    <pubDate>Sun, 16 Feb 2025 19:56:36 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://docs.smartconnections.app/Smart-Connections/Troubleshooting/</link>
+    <guid>https://docs.smartconnections.app/Smart-Connections/Troubleshooting/</guid>
+    <description>Solving WebGPU validation error (embedding).</description>
+    <pubDate>Sun, 16 Feb 2025 19:55:12 GMT</pubDate>
+  </item><item>
+    <title>SC App Getting Started</title>
+    <link>https://docs.smartconnections.app/Smart-Connect/SC-App-Getting-Started</link>
+    <guid>https://docs.smartconnections.app/Smart-Connect/SC-App-Getting-Started</guid>
+    <description>Getting Started with Smart Connect Purpose / Objective Real-World Use Case You have a local environment and a cloud-based environment, both storing related notes or references, ...</description>
+    <pubDate>Sat, 15 Feb 2025 02:39:27 GMT</pubDate>
+  </item><item>
     <title>Getting Started</title>
     <link>https://docs.smartconnections.app/Smart-Note-Visualizer/Getting-Started</link>
     <guid>https://docs.smartconnections.app/Smart-Note-Visualizer/Getting-Started</guid>
@@ -47,24 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Connections/</guid>
     <description>Why Linking relevant notes is a best practice in most personal knowledge management (PKM) systems. Unfortunately, this is a time consuming process and linking to all relevant content has many undesired side effects.</description>
     <pubDate>Wed, 29 Jan 2025 12:11:46 GMT</pubDate>
-  </item><item>
-    <title>Why support the smart connections project</title>
-    <link>https://docs.smartconnections.app/Supporters/Why-support-the-smart-connections-project</link>
-    <guid>https://docs.smartconnections.app/Supporters/Why-support-the-smart-connections-project</guid>
-    <description>Because supporting enables me to spend more time focused on creating tools that empower individuals like you, and reduces the amount of time, I have to spend designing ways to fund ...</description>
-    <pubDate>Sun, 12 Jan 2025 20:35:46 GMT</pubDate>
-  </item><item>
-    <title>Learning-by-moving in a PKM system</title>
-    <link>https://docs.smartconnections.app/Blog/Learning-by-moving-in-a-PKM-system</link>
-    <guid>https://docs.smartconnections.app/Blog/Learning-by-moving-in-a-PKM-system</guid>
-    <description>Conceptual explanation, practical steps, and daily exercises to foster “movement-based” learning within a Personal Knowledge Management system. Conceptual In a human brain, movement is integral to learning.</description>
-    <pubDate>Fri, 03 Jan 2025 17:12:14 GMT</pubDate>
-  </item><item>
-    <title>Smart Context VS Code extension</title>
-    <link>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</link>
-    <guid>https://docs.smartconnections.app/Smart-Context/Smart-Context-VS-Code-extension</guid>
-    <description>Get the Smart Context extension on GitHub.</description>
-    <pubDate>Thu, 12 Dec 2024 02:06:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
