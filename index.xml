@@ -6,6 +6,12 @@
       <description>Last 10 notes on Smart Docs</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Getting Started</title>
+    <link>https://docs.smartconnections.app/Smart-Context/Getting-Started</link>
+    <guid>https://docs.smartconnections.app/Smart-Context/Getting-Started</guid>
+    <description>Getting Started with Smart Context Purpose / Objective Want to seamlessly copy multiple notes at once to share with AI tools? Smart Context lets you build powerful, customized ‘context ...</description>
+    <pubDate>Fri, 21 Feb 2025 13:51:08 GMT</pubDate>
+  </item><item>
     <title>Solving WebGPU validation error (embedding)</title>
     <link>https://docs.smartconnections.app/Smart-Connections/Troubleshooting/Solving-WebGPU-validation-error-(embedding)</link>
     <guid>https://docs.smartconnections.app/Smart-Connections/Troubleshooting/Solving-WebGPU-validation-error-(embedding)</guid>
@@ -59,12 +65,6 @@
     <guid>https://docs.smartconnections.app/Smart-Connections/Connections-pane</guid>
     <description>Instant Insights: Mastering the Connections Pane Purpose / Objective Tired of sifting through notes one by one? Instantly discover related content using Smart Connections ...</description>
     <pubDate>Wed, 29 Jan 2025 12:29:17 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://docs.smartconnections.app/Smart-Connections/</link>
-    <guid>https://docs.smartconnections.app/Smart-Connections/</guid>
-    <description>Why Linking relevant notes is a best practice in most personal knowledge management (PKM) systems. Unfortunately, this is a time consuming process and linking to all relevant content has many undesired side effects.</description>
-    <pubDate>Wed, 29 Jan 2025 12:11:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
